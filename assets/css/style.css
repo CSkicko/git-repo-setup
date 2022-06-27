@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+.root {
+    --dblue: darkblue; 
+    --lblue: lightblue;
+    --black: black;
+    --white: green;
+    --grey: grey;
+    --red: red;
+    }
+
+.body {
+background-color: ;
+}
+
